@@ -20,10 +20,10 @@ If you add any resource found on the net:
 
   * Some monuments are not free at all:
 
-    * Atomium: http://atomium.be/authorsrights.aspx & https://commons.wikimedia.org/wiki/Category:Atomium_related_deletion_requests
+    Atomium: http://atomium.be/authorsrights.aspx & https://commons.wikimedia.org/wiki/Category:Atomium_related_deletion_requests
 
 Sources:
 
-* https://secure.flickr.com/search/?l=deriv
+* https://secure.flickr.com/search/?l=commderiv
 * https://commons.wikimedia.org/wiki/Category:Images_from_Wiki_Loves_Monuments_2012_in_Belgium
 * https://commons.wikimedia.org/wiki/Category:Images_from_Wiki_Loves_Monuments_2011_in_Belgium
