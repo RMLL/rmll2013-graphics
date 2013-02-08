@@ -16,11 +16,11 @@ If you add any resource found on the net:
 
 * Be careful that even if the photograph allows free use, some subjects are not free for use anyway!
 
-** If people are represented (not in a crowd) they must provide their agreement too
+  * If people are represented (not in a crowd) they must provide their agreement too
 
-** Some monuments are not free at all:
+  * Some monuments are not free at all:
 
-*** Atomium: http://atomium.be/authorsrights.aspx & https://commons.wikimedia.org/wiki/Category:Atomium_related_deletion_requests
+    * Atomium: http://atomium.be/authorsrights.aspx & https://commons.wikimedia.org/wiki/Category:Atomium_related_deletion_requests
 
 Sources:
 
