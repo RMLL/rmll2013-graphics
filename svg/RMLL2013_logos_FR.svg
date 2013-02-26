@@ -15,8 +15,8 @@
    height="297mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="RMLL2013_logos.svg">
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="RMLL2013_logos_FR.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -2359,6 +2359,27 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3509"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3543"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3589"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2367,14 +2388,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39231582"
-     inkscape:cx="406.28899"
-     inkscape:cy="478.25448"
+     inkscape:zoom="0.46466892"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1024"
-     inkscape:window-height="718"
+     inkscape:window-width="1365"
+     inkscape:window-height="740"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2414,7 +2435,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2422,24 +2443,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3028-9-5-5"
-       width="246.73686"
-       height="106.58857"
-       x="372.93076"
-       y="543.1217"
-       ry="0" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="rect3028-9-5"
-       width="170"
-       height="220"
-       x="487.43292"
-       y="204.19299"
-       ry="0" />
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4176"
@@ -2693,22 +2697,16 @@
          y="33.855289" /><tspan
          sodipodi:role="line"
          x="63.948368"
-         y="65.982094"
+         y="64.95092"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#acc631;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="tspan12481">RENCONTRES MONDIALES DU LOGICIEL LIBRE</tspan></text>
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       xlink:href="#g4547"
-       id="use4651-3"
-       width="1"
-       height="1"
-       transform="matrix(0.68321499,0,0,0.68321499,259.4234,634.41637)" />
     <g
-       id="g5841">
+       id="g5841"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013_vertical_blanc_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238">
       <use
-         transform="matrix(1.2422091,0,0,1.2422091,568.45225,-86.286664)"
+         transform="matrix(1.2422091,0,0,1.2422091,573.64788,-86.286664)"
          height="1"
          width="1"
          id="use4651"
@@ -2739,29 +2737,10 @@
       </g>
     </g>
     <g
-       id="g5168-3"
-       transform="matrix(0.55035699,0,0,0.55035699,96.484498,691.23437)">
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="translate(235.17668,-23.169885)"
-         id="use5164-7"
-         xlink:href="#g4537"
-         y="0"
-         x="0" />
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="translate(235.06124,0)"
-         id="use5166-2"
-         inkscape:transform-center-y="-28.591284"
-         inkscape:transform-center-x="6.2006535"
-         xlink:href="#text4531"
-         y="0"
-         x="0" />
-    </g>
-    <g
-       id="g5870">
+       id="g5870"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013_horizontal_blanc_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238">
       <use
          transform="matrix(0.89680488,0,0,0.89680488,358.74083,338.64799)"
          height="1"
@@ -2795,93 +2774,131 @@
       </g>
     </g>
     <g
-       id="g5556"
-       transform="translate(-104.12897,15.652188)">
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="translate(871.42399,-278.99489)"
-         id="use5467"
-         inkscape:transform-center-y="-28.591284"
-         inkscape:transform-center-x="6.2006535"
-         xlink:href="#text5417"
-         y="0"
-         x="0"
-         style="display:inline" />
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="translate(871.42399,-278.99489)"
-         id="use5469"
-         xlink:href="#g5423"
-         y="0"
-         x="0"
-         style="display:inline" />
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="matrix(1.2422091,0,0,1.2422091,932.3636,-422.3101)"
-         id="use5471"
-         xlink:href="#g5433"
-         y="0"
-         x="0"
-         style="display:inline" />
+       id="g3721"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013_vertical_noir_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238">
+      <rect
+         ry="0"
+         y="204.19299"
+         x="487.43292"
+         height="220"
+         width="170"
+         id="rect3028-9-5"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <g
+         transform="translate(-102.77631,15.652825)"
+         id="g5556">
+        <g
+           id="g3728"
+           transform="translate(-0.0734188,0)">
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="translate(871.42399,-278.99489)"
+             id="use5467"
+             inkscape:transform-center-y="-28.591284"
+             inkscape:transform-center-x="6.2006535"
+             xlink:href="#text5417"
+             y="0"
+             x="0"
+             style="display:inline" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="translate(871.98685,-278.99489)"
+             id="use5469"
+             xlink:href="#g5423"
+             y="0"
+             x="0"
+             style="display:inline" />
+        </g>
+        <use
+           style="display:inline"
+           x="0"
+           y="0"
+           xlink:href="#g5433"
+           id="use5471"
+           transform="matrix(1.2422091,0,0,1.2422091,937.74806,-422.3101)"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
     </g>
     <g
-       transform="translate(-142.89786,235.53764)"
-       id="g5561">
+       id="g3732"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013_horizontal_noir_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238">
+      <rect
+         ry="0"
+         y="549.71027"
+         x="372.93076"
+         height="100"
+         width="245"
+         id="rect3028-9-5-5"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
       <g
-         id="g5847"
-         transform="matrix(1,0,0,0.9994897,0,2.7165533)">
+         id="g5561"
+         transform="translate(-138.19801,241.62467)">
+        <g
+           transform="matrix(1,0,0,0.9994897,0,2.7165533)"
+           id="g5847">
+          <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#text5417"
+             inkscape:transform-center-x="6.2006535"
+             inkscape:transform-center-y="-28.591284"
+             id="use5563"
+             transform="translate(871.42399,-278.99489)"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#g5423"
+             id="use5565"
+             transform="translate(871.42399,-278.99489)"
+             width="744.09448"
+             height="1052.3622" />
+        </g>
         <use
            height="1052.3622"
            width="744.09448"
-           transform="translate(871.42399,-278.99489)"
-           id="use5563"
-           inkscape:transform-center-y="-28.591284"
-           inkscape:transform-center-x="6.2006535"
-           xlink:href="#text5417"
-           y="0"
-           x="0"
-           style="display:inline" />
-        <use
-           height="1052.3622"
-           width="744.09448"
-           transform="translate(871.42399,-278.99489)"
-           id="use5565"
-           xlink:href="#g5423"
+           transform="matrix(0.89680488,0,0,0.89680488,762.29925,-132.36253)"
+           id="use5567"
+           xlink:href="#g5433"
            y="0"
            x="0"
            style="display:inline" />
       </g>
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g5433"
-         id="use5567"
-         transform="matrix(0.89680488,0,0,0.89680488,762.29925,-132.36253)"
-         width="744.09448"
-         height="1052.3622" />
     </g>
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        id="rect3028-9-5-8"
-       width="96.539612"
-       height="136.32843"
+       width="95"
+       height="135"
        x="234.43491"
-       y="789.67712"
-       ry="0" />
+       y="791.00555"
+       ry="0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013bxl_vertical_noir_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238" />
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;display:inline"
        id="rect3028-9-5-5-8"
-       width="122.03807"
-       height="52.719582"
+       width="120"
+       height="50"
        x="549.67169"
-       y="845.13727"
-       ry="0" />
+       y="847.85687"
+       ry="0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013bxl_horizontal_noir_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238" />
     <g
-       transform="matrix(0.48322326,0,0,0.48322326,358.41913,620.82713)"
+       transform="matrix(0.48322326,0,0,0.48322326,357.42959,621.73696)"
        id="g5673"
        style="display:inline">
       <g
@@ -2935,43 +2952,133 @@
          height="1052.3622" />
     </g>
     <g
-       transform="matrix(0.69449132,0,0,0.69449132,-186.24016,646.85952)"
+       transform="matrix(0.69449132,0,0,0.69449132,-186.15975,647.52411)"
        id="g5767">
+      <g
+         id="g3714">
+        <use
+           height="1052.3622"
+           width="744.09448"
+           transform="matrix(0.98376318,0,0,0.98376318,881.92752,-276.32884)"
+           id="use5773"
+           xlink:href="#g5433"
+           y="0"
+           x="0"
+           style="display:inline" />
+        <g
+           id="g3709">
+          <use
+             style="display:inline"
+             x="0"
+             y="0"
+             xlink:href="#g5441"
+             id="use5473-3"
+             transform="matrix(0.86408029,0,0,0.86408029,847.91675,-234.16929)"
+             width="744.09448"
+             height="1052.3622" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="matrix(0.78439518,0,0,0.78439518,827.86313,-139.24115)"
+             id="use5467-3"
+             inkscape:transform-center-y="-22.426872"
+             inkscape:transform-center-x="4.8637843"
+             xlink:href="#text5417"
+             y="0"
+             x="0"
+             style="display:inline" />
+          <use
+             height="1052.3622"
+             width="744.09448"
+             transform="matrix(0.79245937,0,0,0.79245937,829.89089,-162.96134)"
+             id="use5469-4"
+             xlink:href="#g5423"
+             y="0"
+             x="0"
+             style="display:inline" />
+        </g>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g5887"
+       transform="translate(-3.5748057e-6,1.4560524e-6)"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013bxl_horizontal_blanc_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238">
       <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g5433"
-         id="use5773"
-         transform="matrix(0.98376318,0,0,0.98376318,878.20932,-276.32884)"
-         width="744.09448"
-         height="1052.3622" />
-      <use
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g5441"
-         id="use5473-3"
-         transform="matrix(0.87957715,0,0,0.87957715,851.91494,-244.89869)"
-         width="744.09448"
-         height="1052.3622" />
-      <use
-         height="1052.3622"
-         width="744.09448"
-         transform="matrix(0.78627848,0,0,0.78627848,828.23552,-140.51214)"
-         id="use5467-3"
-         inkscape:transform-center-y="-22.480717"
-         inkscape:transform-center-x="4.875462"
-         xlink:href="#text5417"
+         transform="matrix(0.35039123,0,0,0.35039123,495.39398,771.79692)"
+         height="1"
+         width="1"
+         id="use4651-0"
+         xlink:href="#g4547"
          y="0"
          x="0"
          style="display:inline" />
+      <g
+         transform="translate(0,-0.59797793)"
+         id="g5866">
+        <use
+           style="display:inline"
+           x="0"
+           y="0"
+           xlink:href="#g4537"
+           id="use5164-3"
+           transform="matrix(0.49461002,0,0,0.49461002,564.48487,690.8157)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g4904-0-8-2"
+           id="use5263-0"
+           transform="matrix(0.53491815,0,0,0.53491815,574.64352,657.92723)"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
+    </g>
+    <g
+       id="g3557"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/git/rmll2013-graphics/logos_png/logo2013bxl_vertical_blanc_fr.png"
+       inkscape:export-xdpi="90.122238"
+       inkscape:export-ydpi="90.122238">
+      <use
+         transform="matrix(0.68321499,0,0,0.68321499,262.07964,634.41637)"
+         height="1"
+         width="1"
+         id="use4651-3"
+         xlink:href="#g4547"
+         y="0"
+         x="0"
+         style="display:inline" />
+      <g
+         transform="matrix(0.55035699,0,0,0.55035699,96.459299,691.23437)"
+         id="g5168-3">
+        <use
+           x="0"
+           y="0"
+           xlink:href="#g4537"
+           id="use5164-7"
+           transform="translate(235.26825,-23.169885)"
+           width="744.09448"
+           height="1052.3622" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#text4531"
+           inkscape:transform-center-x="6.1375484"
+           inkscape:transform-center-y="-28.300291"
+           id="use5166-2"
+           transform="matrix(0.98982235,0,0,0.98982235,232.70913,4.201493)"
+           width="744.09448"
+           height="1052.3622" />
+      </g>
       <use
          height="1052.3622"
          width="744.09448"
-         transform="matrix(0.80919607,0,0,0.80919607,834.14364,-173.70006)"
-         id="use5469-4"
-         xlink:href="#g5423"
+         transform="matrix(0.60009626,0,0,0.60009626,238.48466,642.01317)"
+         id="use5263"
+         xlink:href="#g4904-0-8-2"
          y="0"
          x="0"
          style="display:inline" />
@@ -2981,7 +3088,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="master"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        ry="0"
@@ -3084,47 +3191,6 @@
            id="tspan2997-7-5-9-9-8-4-9-0-6-5-4"
            style="font-size:59.95604706px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold">BRUXELLES 2013</tspan></text>
     </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g4904-0-8-2"
-       id="use5263"
-       transform="matrix(0.61473606,0,0,0.61473606,242.28012,635.71365)"
-       width="744.09448"
-       height="1052.3622" />
-    <g
-       id="g5887">
-      <use
-         transform="matrix(0.35039123,0,0,0.35039123,495.39398,771.79692)"
-         height="1"
-         width="1"
-         id="use4651-0"
-         xlink:href="#g4547"
-         y="0"
-         x="0"
-         style="display:inline" />
-      <g
-         transform="translate(0,-0.59797793)"
-         id="g5866">
-        <use
-           style="display:inline"
-           x="0"
-           y="0"
-           xlink:href="#g4537"
-           id="use5164-3"
-           transform="matrix(0.49461002,0,0,0.49461002,564.48487,690.8157)"
-           width="744.09448"
-           height="1052.3622" />
-        <use
-           x="0"
-           y="0"
-           xlink:href="#g4904-0-8-2"
-           id="use5263-0"
-           transform="matrix(0.53491815,0,0,0.53491815,574.64352,657.92723)"
-           width="744.09448"
-           height="1052.3622" />
-      </g>
-    </g>
     <text
        xml:space="preserve"
        style="font-size:10.49340439px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -3190,7 +3256,7 @@
          sodipodi:end="5.6891402"
          sodipodi:start="0.067431812"
          transform="matrix(1.5711431,-5.8644519,5.8635862,1.5713751,-1332.8906,-254.49348)"
-         d="m -52.838494,271.83511 a 17.261297,17.261297 0 1 1 -2.917919,-10.82454"
+         d="m -52.838494,271.83511 c -0.642351,9.51148 -8.873661,16.70134 -18.385147,16.05899 -9.511485,-0.64235 -16.70134,-8.87367 -16.058989,-18.38515 0.64235,-9.51149 8.873661,-16.70134 18.385147,-16.05899 5.311942,0.35874 10.16111,3.14867 13.14107,7.56061"
          sodipodi:ry="17.261297"
          sodipodi:rx="17.261297"
          sodipodi:cy="270.67203"
