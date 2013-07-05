@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg3587"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="planULB.svg"
+   inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/programme/matosProgramme/planULB.png"
+   inkscape:export-xdpi="600.02155"
+   inkscape:export-ydpi="600.02155">
+  <defs
+     id="defs3589" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59804233"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="681"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3592">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="img"
+     transform="translate(0,-308.2677)">
+    <image
+       y="451.84793"
+       x="277.76172"
+       id="image3657"
+       xlink:href="file:///home/agnez/PROJETS/RMLL/imgWorks/foundFootage/maps/campusmap-FOSDEM.png"
+       height="467"
+       width="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="cache bg"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 520.42262,554.18071 5.8888,27.2357 236.28807,-83.91539 -8.8332,-21.3469 c 0,0 -121.83537,46.93179 -128.08138,50.05479 -13.2498,6.6249 -105.26229,27.9718 -105.26229,27.9718 z"
+       id="path12589"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="ccccsc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3808"
+       width="27.478954"
+       height="22.244867"
+       x="714.7428"
+       y="558.4353"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3798"
+       width="21.1166"
+       height="7.2200146"
+       x="484.37897"
+       y="560.73676"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
+       d="M 380.88104,863.30788 515.8768,851.44136 515.61672,730.07134 c 0,0 -39.76304,-1.23561 -41.92541,1.39781 -2.72395,3.31734 -8.89387,42.36494 -8.89387,40.14199 0,-2.22295 -73.91312,-6.66885 -73.91312,-6.66885 z"
+       id="path3024"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3794"
+       width="22.582331"
+       height="14.91286"
+       x="483.05054"
+       y="545.84277"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3796"
+       width="33.534782"
+       height="149.73042"
+       x="482.04968"
+       y="567.82385"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3800"
+       width="17.54541"
+       height="60.399685"
+       x="469.55078"
+       y="658.01288"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3802"
+       width="72.480377"
+       height="43.696663"
+       x="317.52155"
+       y="558.30109"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3804"
+       width="32.876606"
+       height="58.883472"
+       x="707.87311"
+       y="501.84174"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3806"
+       width="56.26643"
+       height="131.99712"
+       x="689.22668"
+       y="569.06702"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       y="682.90839"
+       x="547.25208"
+       height="18.814419"
+       width="198.24106"
+       id="rect3832"
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3834"
+       width="49.069592"
+       height="88.815857"
+       x="547.25208"
+       y="612.24823"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       y="612.24823"
+       x="541.92206"
+       height="43.017601"
+       width="54.399662"
+       id="rect3836"
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165353;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect11733"
+       width="30.344181"
+       height="22.059738"
+       x="484.44727"
+       y="213.69746"
+       transform="translate(0,308.2677)"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165353;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12528"
+       width="72.761749"
+       height="107.59451"
+       x="375.03265"
+       y="652.94659"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       y="486.52347"
+       x="518.62103"
+       height="220.60747"
+       width="20.89963"
+       id="rect12534"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165353;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165353;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12540"
+       width="61.974159"
+       height="11.330377"
+       x="495.78619"
+       y="466.29138"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g12544"
+       style="fill:#ff0000;fill-opacity:0.478673;stroke:none"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         sodipodi:nodetypes="cscc"
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path12542"
+         d="m 541.80892,148.47915 c 0,5.48646 -0.75699,10.39166 1.63814,12.62505 3.11176,2.90161 27.63132,1.50424 31.86888,1.50424 0,0 -22.54851,-9.14243 -33.50702,-14.12929 z"
+         style="fill:#d8d8d8;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165353;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 560.96073,472.53531 188.98871,6.36588 0,17.39313 -188.98871,-6.36588 z"
+       id="rect12576"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:#d8d8d8;fill-opacity:1;stroke:none"
+       d="m 536.55515,558.62805 c 15.07281,-3.78486 126.35477,-41.39208 156.46345,-53.32155 25.70475,-10.18457 54.18978,-21.47561 54.18978,-21.47561 l 3.05295,11.83016 c 0,0 -80.07864,32.26388 -102.65529,40.12241 -26.35283,9.17296 -96.2332,31.78225 -110.66927,34.29314 -0.54219,-8.80664 -0.38162,-11.44855 -0.38162,-11.44855 z"
+       id="path12587"
+       inkscape:connector-curvature="0"
+       transform="translate(0,308.2677)"
+       sodipodi:nodetypes="csccscc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12626"
+       width="62.29554"
+       height="55.165329"
+       x="677.74542"
+       y="846.33655"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect12634"
+       width="93.601143"
+       height="51.187183"
+       x="336.4021"
+       y="600.47211"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+  <g
+     inkscape:label="batiments"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3747"
+       width="63.366219"
+       height="36.022446"
+       x="318.51715"
+       y="561.82324"
+       ry="0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g4553"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(-176.52398,-18.442804)">
+      <g
+         id="g4546"
+         transform="translate(0,-0.02362061)">
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4540"
+           width="15.811834"
+           height="34.120262"
+           x="748.15717"
+           y="-687.39862"
+           ry="0" />
+        <rect
+           style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4536"
+           width="15.811834"
+           height="49.337673"
+           x="653.27838"
+           y="783.32324"
+           ry="0" />
+        <rect
+           ry="0"
+           y="-687.39862"
+           x="850.49384"
+           height="34.120262"
+           width="15.811834"
+           id="rect4538"
+           style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           ry="0"
+           y="-691.67853"
+           x="781.57141"
+           height="38.400158"
+           width="15.811834"
+           id="rect4542"
+           style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           transform="matrix(0,1,-1,0,0,0)" />
+        <rect
+           transform="matrix(0,1,-1,0,0,0)"
+           style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4544"
+           width="15.811834"
+           height="38.400158"
+           x="816.73022"
+           y="-691.67853"
+           ry="0" />
+      </g>
+      <rect
+         ry="0"
+         y="748.13354"
+         x="675.8667"
+         height="47.911041"
+         width="15.811834"
+         id="rect4528"
+         style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#97ca33;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4534"
+         width="15.811834"
+         height="46.008865"
+         x="675.8667"
+         y="820.32031"
+         ry="0" />
+    </g>
+    <g
+       id="g4569"
+       transform="translate(-176.4507,-18.442804)"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       style="fill:#ababab;fill-opacity:1">
+      <rect
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4522"
+         width="39.354877"
+         height="53.149273"
+         x="652.6803"
+         y="680.12299"
+         ry="0" />
+      <rect
+         ry="0"
+         y="674.38751"
+         x="663.43439"
+         height="51.715393"
+         width="28.600784"
+         id="rect4563"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4565"
+         width="14.978931"
+         height="107.27821"
+         x="663.43439"
+         y="568.28046"
+         ry="0" />
+      <rect
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4567"
+         width="16.05434"
+         height="67.129593"
+         x="658.77429"
+         y="590.14709"
+         ry="0" />
+    </g>
+    <g
+       id="g4607"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(-176.52398,-18.442804)">
+      <rect
+         ry="0"
+         y="522.35516"
+         x="896.37292"
+         height="196.75984"
+         width="18.050436"
+         id="rect4565-6"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4593"
+         width="19.570755"
+         height="90.771896"
+         x="865.96655"
+         y="628.34308"
+         ry="0" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="0"
+         y="725.68115"
+         x="-718.69891"
+         height="188.50665"
+         width="15.226987"
+         id="rect4595"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         ry="0"
+         y="630.51495"
+         x="753.46295"
+         height="88.600014"
+         width="18.267624"
+         id="rect4597"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4599"
+         width="18.267624"
+         height="88.600014"
+         x="723.05658"
+         y="630.51495"
+         ry="0" />
+      <rect
+         y="661.85748"
+         x="737.13739"
+         height="14.76881"
+         width="23.456347"
+         id="rect4601"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="660.55432"
+         x="881.35052"
+         height="15.637565"
+         width="19.112579"
+         id="rect4603"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="617.98541"
+         x="882.21924"
+         height="9.9906664"
+         width="15.637565"
+         id="rect4605"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <g
+       id="g4621"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="translate(-176.52398,-18.442804)">
+      <rect
+         y="786.8183"
+         x="739.97797"
+         height="38.763115"
+         width="38.763119"
+         id="rect4617"
+         style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#d8d8d8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4619"
+         width="13.749313"
+         height="16.565434"
+         x="752.48486"
+         y="797.91711" />
+    </g>
+    <rect
+       style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3812"
+       width="10.795303"
+       height="25.843302"
+       x="691.02588"
+       y="572.01123"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:#ababab;fill-opacity:1;stroke:none;display:inline"
+       d="m 423.04376,825.24886 c 0,0 -8.37824,-7.06914 -13.61464,-24.34926 7.8546,-31.94203 38.18706,-44.11068 52.88764,1e-5 -5.72137,20.02325 -16.23284,24.08743 -16.23284,24.08743 z"
+       id="path4679"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="txt"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:43.89574814px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="332.57611"
+       y="595.83447"
+       id="text4518"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="332.57611"
+         y="595.83447">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:43.46346283px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="486.4285"
+       y="762.83887"
+       id="text4530"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="scale(0.99015205,1.0099459)"><tspan
+         sodipodi:role="line"
+         id="tspan4532"
+         x="486.4285"
+         y="762.83887">H</tspan></text>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4655"
+       width="19.215496"
+       height="32.025703"
+       x="832.00482"
+       y="-473.61682"
+       ry="0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       ry="0"
+       y="-428.06012"
+       x="832.00482"
+       height="32.025703"
+       width="19.215496"
+       id="rect4675"
+       style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       style="color:#000000;fill:#ababab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4677"
+       width="22.880978"
+       height="56.113148"
+       x="823.36475"
+       y="-457.90759"
+       ry="0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       xml:space="preserve"
+       style="font-size:22.60638237px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="461.74991"
+       y="680.45398"
+       id="text3840"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan3842"
+         x="461.74991"
+         y="680.45398">Resto</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       sodipodi:linespacing="125%"
+       id="text12503"
+       y="727.86163"
+       x="376.94858"
+       style="font-size:17.97818756px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       xml:space="preserve"><tspan
+         y="727.86163"
+         x="376.94858"
+         id="tspan12505"
+         sodipodi:role="line">Parking</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.97818756px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="490.90671"
+       y="-524.23877"
+       id="text12530"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12532"
+         x="490.90671"
+         y="-524.23877">Avenue Paul Heger</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       sodipodi:linespacing="125%"
+       id="text12536"
+       y="474.33731"
+       x="487.12613"
+       style="font-size:14.71738052px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       xml:space="preserve"><tspan
+         y="474.33731"
+         x="487.12613"
+         id="tspan12538"
+         sodipodi:role="line">bus / tram</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       sodipodi:linespacing="125%"
+       id="text12551"
+       y="489.68173"
+       x="603.51617"
+       style="font-size:17.97818756px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       xml:space="preserve"><tspan
+         y="489.68173"
+         x="603.51617"
+         id="tspan12553"
+         sodipodi:role="line">Avenue Adolphe Buyl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.97818756px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="209.14644"
+       y="1009.4541"
+       id="text12583"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       transform="matrix(0.94440709,-0.32877842,0.32877842,0.94440709,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12585"
+         x="209.14644"
+         y="1009.4541">Avenue Franklin D. Roosevelt</tspan></text>
+    <g
+       id="g12620"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         transform="matrix(1.1337336,0,0,1.1337336,-99.428011,226.61632)"
+         d="m 732.12824,566.95166 c 0,8.17961 -6.63088,14.8105 -14.81049,14.8105 -8.17961,0 -14.8105,-6.63089 -14.8105,-14.8105 0,-8.17961 6.63089,-14.8105 14.8105,-14.8105 8.17961,0 14.81049,6.63089 14.81049,14.8105 z"
+         sodipodi:ry="14.810495"
+         sodipodi:rx="14.810495"
+         sodipodi:cy="566.95166"
+         sodipodi:cx="717.31775"
+         id="path12591"
+         style="color:#000000;fill:none;stroke:#000000;stroke-width:1.76408285;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(0,308.2677)"
+         inkscape:connector-curvature="0"
+         id="path12593"
+         d="m 694.11077,550.74172 18.89213,10.02915"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:12.93664454px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         x="-383.81165"
+         y="1034.7913"
+         id="text12595"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/programme/matosProgramme/planULB.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600"
+         transform="matrix(0.51513238,-0.85711063,0.85711063,0.51513238,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan12597"
+           x="-383.81165"
+           y="1034.7913">N</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.02262878px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="364.1174"
+       y="626.49957"
+       id="text12628"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         id="tspan12630"
+         x="364.1174"
+         y="626.49957">Main</tspan><tspan
+         sodipodi:role="line"
+         x="364.1174"
+         y="644.02783"
+         id="tspan12632">entrance</tspan></text>
+    <g
+       transform="matrix(0.45060024,0,0,0.45060024,353.79401,343.19295)"
+       id="g4902"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         d="m -33.889369,620.56896 20.390048,-35.99219 20.390049,35.99219"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path4897" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4900"
+         d="m -13.465902,585.54426 0,48.14093 0,29.66206"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g3136"
+       transform="matrix(0.72264266,0,0,0.72264266,-183.1548,270.04061)"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planULB.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3328"
+         y="592.06793"
+         x="917.94897"
+         style="font-size:26.21753693px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+         xml:space="preserve"
+         inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+         inkscape:export-xdpi="599.95868"
+         inkscape:export-ydpi="599.95868"><tspan
+           id="tspan3330"
+           y="592.06793"
+           x="917.94897"
+           sodipodi:role="line">WC</tspan></text>
+      <g
+         id="g3194"
+         style="display:inline"
+         transform="matrix(0.53275446,0,0,0.53275446,374.41796,108.50605)">
+        <g
+           style="display:inline"
+           inkscape:export-ydpi="599.95868"
+           inkscape:export-xdpi="599.95868"
+           inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+           transform="matrix(1.2199986,0,0,1.2199986,-956.95156,1507.7133)"
+           id="g3332-7">
+          <path
+             sodipodi:type="arc"
+             style="color:#000000;fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             id="path3334-1"
+             sodipodi:cx="1642.2968"
+             sodipodi:cy="-475.88284"
+             sodipodi:rx="5.1177077"
+             sodipodi:ry="5.1177077"
+             d="m 1647.4028,-475.53801 c -0.1904,2.82001 -2.6309,4.95169 -5.4509,4.76124 -2.82,-0.19044 -4.9517,-2.6309 -4.7612,-5.45091 0.1904,-2.82001 2.6309,-4.95169 5.4509,-4.76124 2.6865,0.18143 4.7729,2.41349 4.7729,5.10608"
+             sodipodi:start="0.067431812"
+             sodipodi:end="6.2831853"
+             sodipodi:open="true"
+             transform="translate(-14.346011,-2.7557309)" />
+          <g
+             id="g3336-3"
+             transform="translate(0.12419251,0)">
+            <path
+               inkscape:connector-curvature="0"
+               id="path3338-2"
+               d="m 1627.8265,-472.85383 0,13.45445"
+               style="fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3340-5"
+               d="m 1623.4497,-464.58664 8.7535,0"
+               style="fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+        </g>
+        <g
+           inkscape:export-ydpi="599.95868"
+           inkscape:export-xdpi="599.95868"
+           inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+           transform="matrix(1.212744,0,0,1.212744,-924.50709,1518.0457)"
+           id="g3342-8"
+           style="display:inline">
+          <g
+             transform="matrix(0.13434873,0.13434873,-0.13434873,0.13434873,1721.6536,-569.04041)"
+             id="g3344-6"
+             style="stroke-width:12.32301998;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               sodipodi:nodetypes="ccc"
+               inkscape:connector-curvature="0"
+               d="m -33.889369,620.56896 20.390048,-35.99219 20.390049,35.99219"
+               style="fill:none;stroke:#000000;stroke-width:14.58124161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               id="path3346-5" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3348-7"
+               d="m -13.465902,585.54426 0,48.14093 0,29.66206"
+               style="fill:none;stroke:#000000;stroke-width:14.58124161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             sodipodi:type="arc"
+             style="color:#000000;fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             id="path3350-9"
+             sodipodi:cx="1642.2968"
+             sodipodi:cy="-475.88284"
+             sodipodi:rx="5.1177077"
+             sodipodi:ry="5.1177077"
+             d="m 1647.4028,-475.53801 c -0.1904,2.82001 -2.6309,4.95169 -5.4509,4.76124 -2.82,-0.19044 -4.9517,-2.6309 -4.7612,-5.45091 0.1904,-2.82001 2.6309,-4.95169 5.4509,-4.76124 2.6865,0.18143 4.7729,2.41349 4.7729,5.10608"
+             sodipodi:start="0.067431812"
+             sodipodi:end="6.2831853"
+             sodipodi:open="true"
+             transform="translate(-14.346011,-2.7557309)" />
+        </g>
+        <g
+           inkscape:export-ydpi="599.95868"
+           inkscape:export-xdpi="599.95868"
+           inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+           id="g3352-1"
+           style="fill:#000000;fill-opacity:1;display:inline"
+           transform="matrix(0.0889048,0,0,0.0889048,1066.2678,912.21922)">
+          <path
+             sodipodi:nodetypes="csssssscsscsssssssssccscsscscccscscssccscccccccsscscscsccccc"
+             inkscape:connector-curvature="0"
+             id="path3354-4"
+             d="m 180.95162,412.82907 c -10.41667,-0.9223 -19.78961,-2.8684 -29.0078,-6.0229 -42.14695,-14.4232 -73.433508,-51.83941 -80.726912,-96.54291 -0.426471,-2.614 -0.934867,-6.2329 -1.129784,-8.0422 -0.476624,-4.4242 -0.474669,-20.0007 0.0031,-24.39721 1.585138,-14.5879 5.396585,-28.1575 11.549567,-41.1189 11.659099,-24.5602 30.949259,-44.6283 54.558459,-56.75861 l 3.4107,-1.7524 0.15651,1.4317 c 0.16406,1.5007 2.55369,33.75821 2.55369,34.47201 0,0.2264 -0.99256,1.088 -2.20566,1.9148 -5.13855,3.5021 -11.33767,9.0742 -15.54937,13.9764 -11.77103,13.7011 -18.81591,29.2695 -21.58376,47.698 -0.51053,3.39911 -0.59943,5.12621 -0.61375,11.92441 -0.0172,8.1709 0.1904,10.9925 1.22039,16.5847 3.37897,18.3459 11.50929,34.0987 24.41061,47.2965 4.48359,4.5866 8.25041,7.7367 13.59512,11.3692 20.59883,14.00011 46.12488,18.28331 70.16074,11.77261 5.85678,-1.5864 10.47062,-3.4448 17.32176,-6.9767 18.34007,-9.45491 33.59773,-26.49391 41.36249,-46.19171 2.31289,-5.8674 4.3421,-13.2941 5.21184,-19.0747 0.25895,-1.7212 0.53301,-3.1282 0.609,-3.1265 0.076,0.002 4.85171,9.901 10.61271,21.9986 l 10.47457,21.9956 -1.35639,2.5914 c -14.07606,26.89281 -38.49378,48.14041 -67.04791,58.34331 -8.91457,3.1853 -16.68845,5.0107 -26.60161,6.2464 -4.06002,0.506 -17.33889,0.7476 -21.38827,0.3891 z m 144.31322,-40.8857 c -0.27807,-0.6549 -11.32326,-27.18821 -24.54483,-58.96281 l -24.03921,-57.77211 -59.82865,0 c -32.90574,0 -59.83954,-0.0308 -59.85289,-0.0685 -0.0133,-0.0377 -2.65014,-37.754 -5.85954,-83.81411 l -5.83528,-83.745496 -0.93882,-2.0966 c -1.88891,-4.218401 -2.82978,-8.250001 -3.02921,-12.980302 23.55993,0 11.05018,-1.235063 35.51701,-1.235063 l 0.12134,34.645361 c 0.006,1.69529 3.57583,64.5565 3.57583,65.5436 l 0,0.6909 41.84077,0 41.84076,0 0,15.6252 0,15.62521 -40.27589,0 -40.27586,0 0.15589,1.9874 c 0.0857,1.0931 0.42865,5.9073 0.76199,10.6984 l 0.60608,8.7109 11.10763,-0.1505 c 25.04638,-0.3394 100.07867,-0.7168 100.26704,-0.5044 0.11155,0.1259 10.83523,25.423 23.83041,56.21601 12.99519,30.793 23.72281,55.9886 23.83913,55.9903 0.11634,0.002 8.22386,-2.9609 18.01667,-6.5836 9.79281,-3.6226 17.86755,-6.5226 17.94382,-6.4443 0.35366,0.3625 9.85894,23.8792 9.71213,24.0283 -0.16501,0.1676 -62.8498,25.41641 -63.70638,25.66041 -0.32021,0.0911 -0.58551,-0.2061 -0.94994,-1.0642 z"
+             style="fill:#000000;fill-opacity:1" />
+          <path
+             transform="matrix(1.5364239,0,0,1.5364239,-116.79423,-50.226061)"
+             d="m 203.42699,80.654915 c 0,11.846922 -9.60383,21.450755 -21.45075,21.450755 -11.84692,0 -21.45075,-9.603833 -21.45075,-21.450755 0,-11.846922 9.60383,-21.45075 21.45075,-21.45075 11.84692,0 21.45075,9.603828 21.45075,21.45075 z"
+             sodipodi:ry="21.45075"
+             sodipodi:rx="21.45075"
+             sodipodi:cy="80.654915"
+             sodipodi:cx="181.97624"
+             id="path3356-5"
+             style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

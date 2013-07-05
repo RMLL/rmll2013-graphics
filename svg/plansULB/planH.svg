@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="planH.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath3032"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3034"
+         d="m 0,842 1190.879,0 0,-841.68 L 0,0.32 0,842 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3028"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3030"
+         d="m 0,0 1191,0 0,842 L 0,842 0,0 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3020"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path3022"
+         d="m 0,841.68 1190,0 0,-841 -1190,0 0,841 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       id="clipPath3020-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3022-7"
+         d="m 0,841.68 1190,0 0,-841 -1190,0 0,841 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3028-7"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3030-5"
+         d="m 0,0 1191,0 0,842 L 0,842 0,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3032-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3034-9"
+         d="m 0,842 1190.879,0 0,-841.68 L 0,0.32 0,842 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3020-0-8"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3022-7-6"
+         d="m 0,841.68 1190,0 0,-841 -1190,0 0,841 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3028-7-6"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3030-5-5"
+         d="m 0,0 1191,0 0,842 L 0,842 0,0 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath3032-8-2"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3034-9-5"
+         d="m 0,842 1190.879,0 0,-841.68 L 0,0.32 0,842 z" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4212">
+      <rect
+         y="-569.12946"
+         x="966.2049"
+         height="373.55801"
+         width="663.70642"
+         id="rect4214"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(1,-1)" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.59804233"
+     inkscape:cx="297.10032"
+     inkscape:cy="103.67159"
+     inkscape:document-units="px"
+     inkscape:current-layer="g46581"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="681"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     showborder="false"
+     inkscape:showpageshadow="false">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-323.44928,600.34605"
+       id="guide3299" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-551.04201,390.24615"
+       id="guide4081" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-74.645061,274.19108"
+       id="guide4083" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-374.73355,-837.42707"
+       id="guide4145" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-378.34834,-956.11277"
+       id="guide4147" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-342.42817,-896.21154"
+       id="guide4149" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="899.3399,271.56389"
+       id="guide3934" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="450.75916,-586.97759"
+       id="guide48344" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="fond"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <path
+       style="color:#000000;fill:#dddddd;fill-opacity:1;stroke:none;stroke-width:1.99215126;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 100.71075,735.81847 496.8715,0 0,383.62873 -134.72639,0 -123.34078,0 c -327.898772,0 -47.01145,0 -374.910197,0 z"
+       id="rect4089"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+  <g
+     inkscape:label="salles"
+     inkscape:groupmode="layer"
+     id="g46671"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path46673"
+       d="m 156.97775,1078.9428 0,17.5243 m 0,3.6335 0,17.8883 -52.16587,0 0,-42.6772 52.16587,0 0,1.6229"
+       style="color:#000000;fill:#909191;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path46677"
+       d="m -36.665772,1118.7985 105.599634,-297.5273 37.863498,-5.2152 0,302.7425"
+       style="color:#000000;fill:#909191;fill-opacity:1;stroke:none;stroke-width:1.0762043;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path46679"
+       d="m 162.06546,777.64056 0,40.7113 m 0,8.44189 0,41.55756 -56.34343,0 0,-99.14704 56.34343,0 0,3.7703"
+       style="color:#000000;fill:#909191;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path46681"
+       d="m 489.54045,734.90883 0,296.63827 33.94918,0 0,-232.80418 16.91346,0 0,232.80418 56.62012,0 0,-296.63827 z"
+       style="color:#000000;fill:#909090;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="opacity:0.98999999;color:#000000;fill:#909090;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 99.107297,734.90845 133.958903,0 0,86.36272 -164.424702,0 z"
+       id="rect46683"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path46685"
+       d="m 460.92133,1009.4593 -122.05896,0 m -21.76894,0 -5.38784,0 0,-192.25479 176.91608,0 0,192.25479 -6.72773,0"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path46697"
+       d="m 498.97261,741.83312 0,33.41457 m 0,6.92885 0,34.10919 -186.02078,0 0,-81.3769 186.02078,0 0,3.0946"
+       style="color:#000000;fill:#909191;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       transform="matrix(0.91320517,0,0,0.91320517,-382.2186,301.09842)"
+       id="g46703"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"
+       style="stroke:#909191;stroke-opacity:1">
+      <g
+         inkscape:export-ydpi="600.00592"
+         inkscape:export-xdpi="600.00592"
+         inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/programme/matosProgramme/planH.png"
+         id="g46705"
+         style="stroke:#909191;stroke-width:1.86033309;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <rect
+           style="color:#000000;fill:none;stroke:#909191;stroke-width:2.6153574;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect46707"
+           width="52.334385"
+           height="9.6092663"
+           x="536.80176"
+           y="828.92102" />
+        <rect
+           y="819.34656"
+           x="536.80176"
+           height="9.6092663"
+           width="52.334385"
+           id="rect46709"
+           style="color:#000000;fill:none;stroke:#909191;stroke-width:2.6153574;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           style="color:#000000;fill:none;stroke:#909191;stroke-width:2.6153574;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect46711"
+           width="52.334385"
+           height="9.6092663"
+           x="536.80176"
+           y="809.67627" />
+        <rect
+           y="799.96655"
+           x="536.80176"
+           height="9.6092663"
+           width="52.334385"
+           id="rect46713"
+           style="color:#000000;fill:none;stroke:#909191;stroke-width:2.6153574;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <rect
+           y="838.51202"
+           x="536.80176"
+           height="9.6092663"
+           width="52.334385"
+           id="rect46715"
+           style="color:#000000;fill:none;stroke:#909191;stroke-width:2.6153574;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <rect
+         inkscape:export-ydpi="600.00592"
+         inkscape:export-xdpi="600.00592"
+         inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/programme/matosProgramme/planH.png"
+         y="799.67902"
+         x="560.56183"
+         height="48.861526"
+         width="4.8143082"
+         id="rect46717"
+         style="color:#000000;fill:#909191;fill-opacity:1;fill-rule:nonzero;stroke:#909191;stroke-width:2;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <rect
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       y="1007.8085"
+       x="104.302"
+       height="55.556881"
+       width="3.0955949"
+       id="rect46719"
+       style="color:#000000;fill:#909191;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 161.06546,983.47558 0,-42.52764 m 0,-20.76561 0,-50.83102 -55.66484,0 0,140.12109 55.66484,0 0,-5.3284"
+       id="path46721"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 218.75044,844.81984 c 0,-37.77176 0,-71.13923 0,-108.91101 l 93.28815,0 0,134.35112 -93.28815,0 0,-5.10905"
+       id="path3979-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path3977-6"
+       d="m 218.75044,983.55829 0,-87.76158 m 0,-21.85173 0,-4.25679 93.28815,0 0,139.77671 -93.28815,0 0,-5.3154"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="border"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m -34.349313,1119.4472 374.969473,0 0,23.9046 M 99.848397,735.81847 l 497.733853,0 0,383.62873 -129.93762,0 0,23.9046"
+       id="rect4089-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g46581"
+     inkscape:label="txt"
+     style="display:inline"
+     transform="translate(0,-308.2677)">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="398.79559"
+       y="928.20758"
+       id="text46583"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         x="398.79559"
+         y="928.20758"
+         id="tspan46587">H 2215</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="-935.51184"
+       y="104.4669"
+       id="text46607"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="13.121853"
+       inkscape:transform-center-y="94.851664"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+         sodipodi:role="line"
+         id="tspan46609"
+         x="-935.51184"
+         y="104.4669" /><tspan
+         id="tspan46611"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+         sodipodi:role="line"
+         x="-935.51184"
+         y="144.4669">H 2111</tspan></text>
+    <g
+       transform="matrix(0.76550933,0,0,0.76550933,413.88393,669.26237)"
+       id="g46613"
+       style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         d="m -33.889369,620.56896 20.390048,-35.99219 20.390049,35.99219"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path46615" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path46617"
+         d="m -13.465902,585.54426 0,48.14093 0,29.66206"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:153.63807678px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+       x="-778.67609"
+       y="974.42731"
+       id="text46649"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/questionsH.png"
+       inkscape:export-xdpi="90.024231"
+       inkscape:export-ydpi="90.024231"><tspan
+         sodipodi:role="line"
+         id="tspan46651"
+         x="-778.67609"
+         y="974.42731">H</tspan></text>
+    <text
+       inkscape:export-ydpi="600"
+       inkscape:export-xdpi="600"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       sodipodi:linespacing="125%"
+       id="text46665"
+       y="276.07196"
+       x="-941.24091"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         id="tspan46669"
+         y="276.07196"
+         x="-941.24091"
+         sodipodi:role="line">H 2214</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9, 3;stroke-dashoffset:0"
+       d="M 120.36412,727.42822 -22.356392,1130.8632"
+       id="path47753"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path47755"
+       d="M 103.32934,727.42822 -39.391185,1130.8632"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:9, 3;stroke-dashoffset:0"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+       x="-803.24091"
+       y="276.07196"
+       id="text47783"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><tspan
+         sodipodi:role="line"
+         x="-803.24091"
+         y="276.07196"
+         id="tspan47785">H 2213</tspan></text>
+    <g
+       id="g4058">
+      <text
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+         xml:space="preserve"
+         style="font-size:26.21731949px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
+         x="167.22237"
+         y="791.22418"
+         id="text46653"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="167.22237"
+           y="791.22418"
+           id="tspan46655">WC</tspan></text>
+      <g
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planH.png"
+         id="g3194"
+         style="display:inline"
+         transform="matrix(0.53275446,0,0,0.53275446,-374.05633,308.15235)">
+        <g
+           style="display:inline"
+           inkscape:export-ydpi="599.95868"
+           inkscape:export-xdpi="599.95868"
+           inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+           transform="matrix(1.2199986,0,0,1.2199986,-956.95156,1507.7133)"
+           id="g3332">
+          <path
+             sodipodi:type="arc"
+             style="color:#000000;fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             id="path3334"
+             sodipodi:cx="1642.2968"
+             sodipodi:cy="-475.88284"
+             sodipodi:rx="5.1177077"
+             sodipodi:ry="5.1177077"
+             d="m 1647.4028,-475.53801 c -0.1904,2.82001 -2.6309,4.95169 -5.4509,4.76124 -2.82,-0.19044 -4.9517,-2.6309 -4.7612,-5.45091 0.1904,-2.82001 2.6309,-4.95169 5.4509,-4.76124 2.6865,0.18143 4.7729,2.41349 4.7729,5.10608"
+             sodipodi:start="0.067431812"
+             sodipodi:end="6.2831853"
+             sodipodi:open="true"
+             transform="translate(-14.346011,-2.7557309)" />
+          <g
+             id="g3336"
+             transform="translate(0.12419251,0)">
+            <path
+               inkscape:connector-curvature="0"
+               id="path3338"
+               d="m 1627.8265,-472.85383 0,13.45445"
+               style="fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3340"
+               d="m 1623.4497,-464.58664 8.7535,0"
+               style="fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+        </g>
+        <g
+           inkscape:export-ydpi="599.95868"
+           inkscape:export-xdpi="599.95868"
+           inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+           transform="matrix(1.212744,0,0,1.212744,-924.50709,1518.0457)"
+           id="g3342"
+           style="display:inline">
+          <g
+             transform="matrix(0.13434873,0.13434873,-0.13434873,0.13434873,1721.6536,-569.04041)"
+             id="g3344"
+             style="stroke-width:12.32301998;stroke-miterlimit:4;stroke-dasharray:none">
+            <path
+               sodipodi:nodetypes="ccc"
+               inkscape:connector-curvature="0"
+               d="m -33.889369,620.56896 20.390048,-35.99219 20.390049,35.99219"
+               style="fill:none;stroke:#000000;stroke-width:14.58124161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               id="path3346" />
+            <path
+               inkscape:connector-curvature="0"
+               id="path3348"
+               d="m -13.465902,585.54426 0,48.14093 0,29.66206"
+               style="fill:none;stroke:#000000;stroke-width:14.58124161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               sodipodi:nodetypes="ccc" />
+          </g>
+          <path
+             sodipodi:type="arc"
+             style="color:#000000;fill:none;stroke:#000000;stroke-width:2.77040362;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             id="path3350"
+             sodipodi:cx="1642.2968"
+             sodipodi:cy="-475.88284"
+             sodipodi:rx="5.1177077"
+             sodipodi:ry="5.1177077"
+             d="m 1647.4028,-475.53801 c -0.1904,2.82001 -2.6309,4.95169 -5.4509,4.76124 -2.82,-0.19044 -4.9517,-2.6309 -4.7612,-5.45091 0.1904,-2.82001 2.6309,-4.95169 5.4509,-4.76124 2.6865,0.18143 4.7729,2.41349 4.7729,5.10608"
+             sodipodi:start="0.067431812"
+             sodipodi:end="6.2831853"
+             sodipodi:open="true"
+             transform="translate(-14.346011,-2.7557309)" />
+        </g>
+        <g
+           inkscape:export-ydpi="599.95868"
+           inkscape:export-xdpi="599.95868"
+           inkscape:export-filename="/home/agnez/PROJETS/RMLL/imgWorks/maps/planK.png"
+           id="g3352"
+           style="fill:#000000;fill-opacity:1;display:inline"
+           transform="matrix(0.0889048,0,0,0.0889048,1066.2678,912.21922)">
+          <path
+             sodipodi:nodetypes="csssssscsscsssssssssccscsscscccscscssccscccccccsscscscsccccc"
+             inkscape:connector-curvature="0"
+             id="path3354"
+             d="m 180.95162,412.82907 c -10.41667,-0.9223 -19.78961,-2.8684 -29.0078,-6.0229 -42.14695,-14.4232 -73.433508,-51.83941 -80.726912,-96.54291 -0.426471,-2.614 -0.934867,-6.2329 -1.129784,-8.0422 -0.476624,-4.4242 -0.474669,-20.0007 0.0031,-24.39721 1.585138,-14.5879 5.396585,-28.1575 11.549567,-41.1189 11.659099,-24.5602 30.949259,-44.6283 54.558459,-56.75861 l 3.4107,-1.7524 0.15651,1.4317 c 0.16406,1.5007 2.55369,33.75821 2.55369,34.47201 0,0.2264 -0.99256,1.088 -2.20566,1.9148 -5.13855,3.5021 -11.33767,9.0742 -15.54937,13.9764 -11.77103,13.7011 -18.81591,29.2695 -21.58376,47.698 -0.51053,3.39911 -0.59943,5.12621 -0.61375,11.92441 -0.0172,8.1709 0.1904,10.9925 1.22039,16.5847 3.37897,18.3459 11.50929,34.0987 24.41061,47.2965 4.48359,4.5866 8.25041,7.7367 13.59512,11.3692 20.59883,14.00011 46.12488,18.28331 70.16074,11.77261 5.85678,-1.5864 10.47062,-3.4448 17.32176,-6.9767 18.34007,-9.45491 33.59773,-26.49391 41.36249,-46.19171 2.31289,-5.8674 4.3421,-13.2941 5.21184,-19.0747 0.25895,-1.7212 0.53301,-3.1282 0.609,-3.1265 0.076,0.002 4.85171,9.901 10.61271,21.9986 l 10.47457,21.9956 -1.35639,2.5914 c -14.07606,26.89281 -38.49378,48.14041 -67.04791,58.34331 -8.91457,3.1853 -16.68845,5.0107 -26.60161,6.2464 -4.06002,0.506 -17.33889,0.7476 -21.38827,0.3891 z m 144.31322,-40.8857 c -0.27807,-0.6549 -11.32326,-27.18821 -24.54483,-58.96281 l -24.03921,-57.77211 -59.82865,0 c -32.90574,0 -59.83954,-0.0308 -59.85289,-0.0685 -0.0133,-0.0377 -2.65014,-37.754 -5.85954,-83.81411 l -5.83528,-83.745496 -0.93882,-2.0966 c -1.88891,-4.218401 -2.82978,-8.250001 -3.02921,-12.980302 23.55993,0 11.05018,-1.235063 35.51701,-1.235063 l 0.12134,34.645361 c 0.006,1.69529 3.57583,64.5565 3.57583,65.5436 l 0,0.6909 41.84077,0 41.84076,0 0,15.6252 0,15.62521 -40.27589,0 -40.27586,0 0.15589,1.9874 c 0.0857,1.0931 0.42865,5.9073 0.76199,10.6984 l 0.60608,8.7109 11.10763,-0.1505 c 25.04638,-0.3394 100.07867,-0.7168 100.26704,-0.5044 0.11155,0.1259 10.83523,25.423 23.83041,56.21601 12.99519,30.793 23.72281,55.9886 23.83913,55.9903 0.11634,0.002 8.22386,-2.9609 18.01667,-6.5836 9.79281,-3.6226 17.86755,-6.5226 17.94382,-6.4443 0.35366,0.3625 9.85894,23.8792 9.71213,24.0283 -0.16501,0.1676 -62.8498,25.41641 -63.70638,25.66041 -0.32021,0.0911 -0.58551,-0.2061 -0.94994,-1.0642 z"
+             style="fill:#000000;fill-opacity:1" />
+          <path
+             transform="matrix(1.5364239,0,0,1.5364239,-116.79423,-50.226061)"
+             d="m 203.42699,80.654915 c 0,11.846922 -9.60383,21.450755 -21.45075,21.450755 -11.84692,0 -21.45075,-9.603833 -21.45075,-21.450755 0,-11.846922 9.60383,-21.45075 21.45075,-21.45075 11.84692,0 21.45075,9.603828 21.45075,21.45075 z"
+             sodipodi:ry="21.45075"
+             sodipodi:rx="21.45075"
+             sodipodi:cy="80.654915"
+             sodipodi:cx="181.97624"
+             id="path3356"
+             style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             sodipodi:type="arc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
